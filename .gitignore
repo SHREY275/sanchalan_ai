@@ -1,2 +1,9 @@
 san_env/
 backend/out2.mp4
+
+node_modules
+dist
+.DS_Store
+server/public
+vite.config.ts.*
+*.tar.gz
