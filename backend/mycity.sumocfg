@@ -1,0 +1,7 @@
+<configuration>
+    <input>
+        <net-file value="mycity.net.xml"/>
+        <route-files value="mycity.rou.xml"/>
+        <additional-files value="mycity.add.xml"/>
+    </input>
+</configuration>

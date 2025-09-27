@@ -1,0 +1,12 @@
+train: D:/25050/dataset/train/images
+val: D:/25050/dataset/test/images
+
+nc: 1
+names: ["ambulance"]
+
+roboflow:
+  workspace: krish-gguxn
+  project: ambulance-detection-oafwy-sxma9
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/krish-gguxn/ambulance-detection-oafwy-sxma9/dataset/1

@@ -1,0 +1,5 @@
+train: D:/25050/final_dataset/images
+val: D:/25050/final_dataset/test_images
+
+nc: 5
+names: ["car","bus","bike","person","ambulance"]
